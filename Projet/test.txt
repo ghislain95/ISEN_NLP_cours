@@ -2,3 +2,14 @@ With stopwords :
 loss: 0.2917 - accuracy: 0.8662 - val_loss: 0.5868 - val_accuracy: 0.7729
 
 Without stopwords :
+loss: 0.4089 - accuracy: 0.7995 - val_loss: 0.5555 - val_accuracy: 0.7345
+
+Tokenizer
+num_words = 200 :
+loss: 0.5568 - accuracy: 0.7034 - val_loss: 0.5874 - val_accuracy: 0.6821
+num_words = 2000 :
+loss: 0.4089 - accuracy: 0.7995 - val_loss: 0.5555 - val_accuracy: 0.7345
+
+
+400000 tweets:
+10 epochs : 
