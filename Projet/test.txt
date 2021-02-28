@@ -1,0 +1,4 @@
+With stopwords :
+loss: 0.2917 - accuracy: 0.8662 - val_loss: 0.5868 - val_accuracy: 0.7729
+
+Without stopwords :
