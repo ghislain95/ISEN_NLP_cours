@@ -12,4 +12,13 @@ loss: 0.4089 - accuracy: 0.7995 - val_loss: 0.5555 - val_accuracy: 0.7345
 
 
 400000 tweets:
-10 epochs : 
+10 epochs : loss: 0.4041 - accuracy: 0.8073 - val_loss: 0.5272 - val_accuracy: 0.7538
+		loss: 0.5244 - accuracy: 0.7545
+
+100000 tweets :
+10 epochs : loss: 0.3695 - accuracy: 0.8240 - val_loss: 0.6262 - val_accuracy: 0.7411
+		loss: 0.6523 - accuracy: 0.7379
+
+80000 tweets :
+60 epochs : loss: 0.0882 - accuracy: 0.9591 - val_loss: 4.1014 - val_accuracy: 0.6983
+		loss: 4.0924 - accuracy: 0.7001
